@@ -1,4 +1,4 @@
 # Python
 test
-English is good
-
+<<<<<<< HEAD
+English is kkgood
